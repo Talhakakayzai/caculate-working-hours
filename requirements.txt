@@ -1,0 +1,4 @@
+You should Install It
+PyQt5>=5.15.2
+numpy>=1.18.5
+matplotlib>=3.3.2
